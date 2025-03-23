@@ -67,6 +67,7 @@ img {
 .postedBy {
   padding-top: 20px;
   font-size: 0.75rem;
+  font-weight: 600;
 }
 
 hr {
